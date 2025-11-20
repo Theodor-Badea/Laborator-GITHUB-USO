@@ -1,2 +1,2 @@
-# Laborator-GITHUB-USO
-Temporar
+# Sorting Algorithms for Integer Arrays
+We implement 3 sorting algorithms for integer arrays.
