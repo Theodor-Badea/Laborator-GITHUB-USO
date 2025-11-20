@@ -1,0 +1,2 @@
+# Laborator-GITHUB-USO
+Temporar
