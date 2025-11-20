@@ -1,2 +1,1 @@
-# Laborator-GITHUB-USO
-Temporar
+# Sorting Algorithms for Beginners
